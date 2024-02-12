@@ -15,9 +15,9 @@
 
 Например, годы 2012 и 2000 являются високосными, но годы 1999, 2022 и 2100 - нет.
 
-![Alt text](input.png)
+![Alt text](../images/input02.png)
 
-![Alt text](output.png)
+![Alt text](../images/output02.png)
 
 ###Пример теста 1
 __Входные данные__

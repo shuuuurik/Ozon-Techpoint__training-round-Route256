@@ -23,9 +23,9 @@
 
 Вам заданы 10 целых чисел от 1 до 4. Проверьте, что заданные размеры соответствуют требованиям выше.
 
-![Alt text](input.png)
+![Alt text](../images/input01.png)
 
-![Alt text](output.png)
+![Alt text](../images/output01.png)
 
 ###Пример теста 1
 __Входные данные__

@@ -28,9 +28,9 @@ __остаётся__ в той же строке.
 
 Промоделируйте последовательность действий и выведите результат.
 
-![Alt text](input.png)
+![Alt text](../images/input06.png)
 
-![Alt text](output.png)
+![Alt text](../images/output06.png)
 
 ###Пример теста 1
 __Входные данные__

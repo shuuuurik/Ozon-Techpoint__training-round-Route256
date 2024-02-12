@@ -34,9 +34,9 @@
 
 Если ответов несколько, то выведите любой из них.
 
-![Alt text](input.png)
+![Alt text](../images/input07.png)
 
-![Alt text](output.png)
+![Alt text](../images/output07.png)
 
 ###Пример теста 1
 __Входные данные__

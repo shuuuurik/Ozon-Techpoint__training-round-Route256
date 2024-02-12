@@ -8,6 +8,9 @@ namespace _01_Морской_Бой
     {
         static void Main(string[] args)
         {
+            //using var input = new StreamReader(Console.OpenStandardInput());
+            //using var output = new StreamWriter(Console.OpenStandardOutput());
+
             int t = int.Parse(Console.ReadLine());
             for (int i = 1; i <= t; ++i)
             {
